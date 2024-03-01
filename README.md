@@ -16,4 +16,5 @@ Factors to Improve: Address compensation concerns for employees with salaries cl
 
 <img width="831" alt="Attrition bashboard" src="https://github.com/yash7463/Attrition_Analysis_On_PowerBI-/assets/100232299/75f834ed-a24c-43b0-aff3-04ce65d9f769">
 
-
+The Conclusion:
+The Power BI analysis has unveiled critical insights into compensation, departmental focus, and retention strategies, paving the way for strategic enhancements. By leveraging these findings, the organization can strengthen its stability and cultivate a more engaged workforce, thus positioning itself for sustained success in the long run.
