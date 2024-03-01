@@ -1,4 +1,4 @@
-# Attrition_Analysis_On_PowerBI-[power bi project.zip]
+# Attrition_Analysis_On_PowerBI-
 
 Comprehensive data analysis on organizational attrition using Power BI, showcasing data cleaning to visualization stages, offering actionable insights for retention strategies and workforce stability.
 
