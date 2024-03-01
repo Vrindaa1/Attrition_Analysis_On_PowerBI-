@@ -1,6 +1,6 @@
 # Attrition_Analysis_On_PowerBI-[power bi project.zip]
 
-Conducted a comprehensive data analysis on organizational attrition using Power BI, encompassing key stages from data cleaning to visualization.
+Comprehensive data analysis on organizational attrition using Power BI, showcasing data cleaning to visualization stages, offering actionable insights for retention strategies and workforce stability.
 
 Key Stages:
 
